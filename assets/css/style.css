@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Poppins;
+    src: url('../css/fonts/Poppins-Bold.ttf');
+  }
+
+
+body{
+    background-image: url('./images/img.gif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+h1{
+    font-size: 150px;
+    color: white;
+    text-align: center;
+    display: block;
+    font-family: Poppins;
+    margin-top: 250px;
+}
